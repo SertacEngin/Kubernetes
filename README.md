@@ -30,3 +30,5 @@ Service	Exposes Pods to the network
 Ingress	Manages external HTTP/HTTPS access
 ConfigMap	Stores non-sensitive config data
 Secret	Stores sensitive data (passwords, API keys)
+
+
